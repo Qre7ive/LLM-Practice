@@ -1,2 +1,2 @@
-# LLM-Practice
+# LLM Practice
 Just practice
